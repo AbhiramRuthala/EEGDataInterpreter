@@ -1,4 +1,4 @@
-#Input your frequency value (numericallu)
+#Input your frequency value (numerically)
 userinput1 = input("What frequency are your brain waves at? ")
 
 #Inputting confirmed frequency values for EEG brain waves. I still have to fully update this part with all the confirmed frequencies.
