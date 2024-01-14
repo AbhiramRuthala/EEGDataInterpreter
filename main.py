@@ -24,6 +24,7 @@ for list in matrix2:
     check = userinput1 in list
 #If the userinput value is within the list, this function runs with the userinput value corresponding to the dictionary plus the other string concatenation.
     if check == True:
+#The "get" function is used to get the value from the userinput and check it within the dictionary to output the KeyValue.
         print(frequency.get(userinput1) + " " + "waves present!")
     else:
         print("Invalid frequency input!")
