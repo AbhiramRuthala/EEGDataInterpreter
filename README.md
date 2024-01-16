@@ -9,4 +9,9 @@ When the program is run, the input is taken by the user which is a number.
 This number will be checked across the entire list (matrix2 in the code) to see if that value is within the content of the list. This will be checked as either "True" or "False" by the variable "check" in the "if" statement in the bottom. If check is equal to True, then the function will print a value by checking for the input of the user in the "frequency" dictionary.
 
 **Dictionary:**
-A dictionary is a place to store values and "KeyValues." As shown in the code, the string on the right side of the code is the KeyValue, while the left is the string that holds it.
+A dictionary is a place to store values and "KeyValues." As shown in the code, the string on the right side of the colon is the KeyValue, while the left is the string that holds it. When calling for userinput, the **get** function in the _frequency.get()_ function will check for the value inputted for userinput and will print out the KeyValue of that string.
+
+**String Concatenation:**
+The _frequency.get_ function will return a string, which will then be grouped with the "waves present!" string to give a small sentence blurb at the end summarizing the predicted brain waves based on the frequency inputted.
+
+
