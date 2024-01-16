@@ -1,4 +1,4 @@
-**Predicting brain waves using the frequency value from non-stationary data of EEG recordings**
+## Predicting brain waves using the frequency value from non-stationary data of EEG recordings
 
 NOTE: This system is coded using the Python3 coding language
 
