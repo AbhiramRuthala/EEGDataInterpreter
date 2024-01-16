@@ -16,3 +16,6 @@ The _frequency.get_ function will return a string, which will then be grouped wi
 
 **Potential Applications:**
 This system mainly applies to medical practitioners and neurologists who spend tons of time interpreting electroencephalogram (EEG) waves at discrete data points to conduct diagnosis or learn more about patients. This will make the process simpler by allowing for the categorization of the brain wave data within the EEG session when taking certain parts of the data (The frequency).
+
+**Future Goals:**
+I want to scale this project so that it can identify frequency values during running EEG sessions/datasets and provide reports on brain waves at the end to show the composition. I'm also looking toward predicting action items that can be taken by people to optimize brain function through this system as well.
