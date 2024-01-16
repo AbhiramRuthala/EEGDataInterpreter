@@ -14,4 +14,5 @@ A dictionary is a place to store values and "KeyValues." As shown in the code, t
 **String Concatenation:**
 The _frequency.get_ function will return a string, which will then be grouped with the "waves present!" string to give a small sentence blurb at the end summarizing the predicted brain waves based on the frequency inputted.
 
-
+**Potential Applications:**
+This system mainly applies to medical practitioners and neurologists who spend tons of time interpreting electroencephalogram (EEG) waves at discrete data points to conduct diagnosis or learn more about patients. This will make the process simpler by allowing for the categorization of the brain wave data within the EEG session when taking certain parts of the data (The frequency).
