@@ -2,7 +2,7 @@
 
 NOTE: This system is coded using the Python3 coding language
 
-# Input
+### Input
 When the program is run, the input is taken by the user which is a number.
 
 **Checking With The List:**
